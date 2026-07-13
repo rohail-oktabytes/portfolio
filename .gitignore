@@ -1,0 +1,12 @@
+# Internal working docs — NEVER commit these (they reference real client/customer names
+# and internal process notes). Applies at the repo root and in EVERY subfolder.
+REDACTION.md
+**/REDACTION.md
+REDACTED.md
+**/REDACTED.md
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
