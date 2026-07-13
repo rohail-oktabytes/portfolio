@@ -30,6 +30,7 @@ one-page **case-study PDF** you can hand to a stakeholder.
 | **Enterprise Drone Operations & Inspection-Analytics Platform** | Multi-tenant serverless AWS platform running the full drone-inspection lifecycle for energy infrastructure | [README](drone-operations-inspection-platform/README.md) · [Case study PDF](drone-operations-inspection-platform/drone-operations-inspection-platform_case_study.pdf) |
 | **Professional Services Automation Platform** | Multi-tenant B2B SaaS for the professional-services back office — projects, people, time, billing, and documents | [README](professional-services-automation-platform/README.md) · [Case study PDF](professional-services-automation-platform/professional-services-automation-platform_case_study.pdf) |
 | **Multi-Chain NFT Management Platform** | Serverless Web3 platform to mint, manage & monetize NFTs across blockchains, wallets & marketplaces from one account | [README](multi-chain-nft-platform/README.md) · [Case study PDF](multi-chain-nft-platform/multi-chain-nft-platform_case_study.pdf) |
+| **Customer-360 Data Lakehouse & Data Catalog** | Event-driven AWS lakehouse unifying 60+ sources into a governed 360° customer view for real-time segmentation & activation | [README](customer-360-data-lakehouse/README.md) · [Case study PDF](customer-360-data-lakehouse/customer-360-data-lakehouse_case_study.pdf) |
 
 ---
 
