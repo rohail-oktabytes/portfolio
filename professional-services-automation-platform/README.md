@@ -16,7 +16,7 @@ You are welcome to read and review these materials to understand my professional
 
 > **Confidentiality note.** This is a sanitized portfolio overview. The product name, client identity, and proprietary business rules are withheld under NDA. Everything here describes capabilities and engineering approach at a level safe for public sharing. All screenshots use fictional demo data — no real client information.
 
-> 📄 **Client-facing case study (C-S-R):** [`professional-services-automation-platform_case_study.pdf`](professional-services-automation-platform_case_study.pdf) — a polished, shareable PDF with Challenge → Solution → Result and embedded screenshots.
+> 📄 **Client-facing case study (C-S-R):** [`professional_services_automation_platform_case_study.pdf`](professional_services_automation_platform_case_study.pdf) — a polished, shareable PDF with Challenge → Solution → Result and embedded screenshots.
 
 ---
 

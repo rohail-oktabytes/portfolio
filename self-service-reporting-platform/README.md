@@ -16,7 +16,7 @@ You are welcome to read and review these materials to understand my professional
 
 > **Confidentiality note.** This is a sanitized portfolio overview. The product name, client identity, proprietary business rules, and internal source are withheld under NDA. Everything here describes capabilities and engineering approach at a level safe for public sharing. Screenshots are from a demo/test environment with client and product logos redacted (see `images/REDACTION.md`).
 
-> 📄 **Client-facing case study (C-S-R):** [`self-service-reporting-platform_case_study.pdf`](self-service-reporting-platform_case_study.pdf) — a polished, shareable PDF with Challenge → Solution → Result, embedded screenshots (logos redacted).
+> 📄 **Client-facing case study (C-S-R):** [`self_service_reporting_platform_case_study.pdf`](self_service_reporting_platform_case_study.pdf) — a polished, shareable PDF with Challenge → Solution → Result, embedded screenshots (logos redacted).
 
 ---
 

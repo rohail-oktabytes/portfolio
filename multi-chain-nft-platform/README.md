@@ -16,7 +16,7 @@ You are welcome to read and review these materials to understand my professional
 
 > **Confidentiality note.** This is a sanitized portfolio overview. The client and product names, founder/partner identities, proprietary business rules, and internal source are withheld under NDA. Everything here describes capabilities and engineering approach at a level safe for public sharing. Screenshots are from a demo environment with the product logo redacted and illustrative (non-real) data. Outcome figures are representative and anonymized.
 
-> 📄 **Client-facing case study (C-S-R):** [`multi-chain-nft-platform_case_study.pdf`](multi-chain-nft-platform_case_study.pdf) — a polished, shareable PDF with Challenge → Solution → Result, embedded screenshots (logos redacted).
+> 📄 **Client-facing case study (C-S-R):** [`multi_chain_nft_platform_case_study.pdf`](multi_chain_nft_platform_case_study.pdf) — a polished, shareable PDF with Challenge → Solution → Result, embedded screenshots (logos redacted).
 
 ---
 
