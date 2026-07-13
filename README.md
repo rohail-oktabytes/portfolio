@@ -29,6 +29,7 @@ one-page **case-study PDF** you can hand to a stakeholder.
 | **AI-Assisted Video Pre-Screening Platform** | Asynchronous, explainable video-interview screening with a human-in-the-loop | [README](ai-video-interview-screening/README.md) · [Case study PDF](ai-video-interview-screening/ai-video-interview-screening_case_study.pdf) |
 | **Enterprise Drone Operations & Inspection-Analytics Platform** | Multi-tenant serverless AWS platform running the full drone-inspection lifecycle for energy infrastructure | [README](drone-operations-inspection-platform/README.md) · [Case study PDF](drone-operations-inspection-platform/drone-operations-inspection-platform_case_study.pdf) |
 | **Professional Services Automation Platform** | Multi-tenant B2B SaaS for the professional-services back office — projects, people, time, billing, and documents | [README](professional-services-automation-platform/README.md) · [Case study PDF](professional-services-automation-platform/professional-services-automation-platform_case_study.pdf) |
+| **Multi-Chain NFT Management Platform** | Serverless Web3 platform to mint, manage & monetize NFTs across blockchains, wallets & marketplaces from one account | [README](multi-chain-nft-platform/README.md) · [Case study PDF](multi-chain-nft-platform/multi-chain-nft-platform_case_study.pdf) |
 
 ---
 
