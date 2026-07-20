@@ -22,7 +22,11 @@ can hand to a stakeholder.
 ![Big Data](https://img.shields.io/badge/Big_Data-0E9F7A?style=flat-square)
 ![Data Engineering](https://img.shields.io/badge/Data_Engineering-0A7D62?style=flat-square)
 ![AI](https://img.shields.io/badge/AI-6D28D9?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-6D28D9?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-5B3FA0?style=flat-square)
+![LLM](https://img.shields.io/badge/LLM-7C3AED?style=flat-square)
 ![Cloud / AWS](https://img.shields.io/badge/Cloud_%2F_AWS-FF9900?style=flat-square)
+![Cloud / Azure](https://img.shields.io/badge/Cloud_%2F_Azure-0078D4?style=flat-square)
 ![Serverless](https://img.shields.io/badge/Serverless-E0803A?style=flat-square)
 ![DevOps](https://img.shields.io/badge/DevOps-7C3AED?style=flat-square)
 ![Web3](https://img.shields.io/badge/Web3-8B5CF6?style=flat-square)
@@ -48,6 +52,7 @@ can hand to a stakeholder.
 | 6 | **Customer-360 Data Lakehouse & Data Catalog**<br>_Event-driven AWS lakehouse unifying 60+ sources into a governed 360° customer view for real-time segmentation & activation_ | ![Big Data](https://img.shields.io/badge/Big_Data-0E9F7A?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data_Engineering-0A7D62?style=flat-square) ![Cloud / AWS](https://img.shields.io/badge/Cloud_%2F_AWS-FF9900?style=flat-square) ![DevOps](https://img.shields.io/badge/DevOps-7C3AED?style=flat-square) | [📖 README](customer-360-data-lakehouse/README.md) | [📄 PDF](customer-360-data-lakehouse/customer_360_data_lakehouse_case_study.pdf) |
 | 7 | **Construction Bidding & Procurement Marketplace**<br>_Multi-tenant, two-sided marketplace — post projects, win work via paid pay-to-bid/pay-to-award, then deliver in a shared workspace_ | ![Full-Stack](https://img.shields.io/badge/Full--Stack-2F6FD0?style=flat-square) ![Marketplace](https://img.shields.io/badge/Marketplace-C2410C?style=flat-square) ![Payments](https://img.shields.io/badge/Payments-15803D?style=flat-square) ![Web](https://img.shields.io/badge/Web-3B6FD4?style=flat-square) | [📖 README](construction-bidding-marketplace/README.md) | [📄 PDF](construction-bidding-marketplace/construction_bidding_marketplace_case_study.pdf) |
 | 8 | **Sports & Activity Venue Management Platform**<br>_Multi-tenant vertical SaaS running a whole venue — bookings, memberships, packages, CRM, cafe/shop POS, equipment lending & a no-code booking site_ | ![SaaS](https://img.shields.io/badge/SaaS-0891B2?style=flat-square) ![Multi-Tenant](https://img.shields.io/badge/Multi--Tenant-0D9488?style=flat-square) ![Payments](https://img.shields.io/badge/Payments-15803D?style=flat-square) ![Web](https://img.shields.io/badge/Web-3B6FD4?style=flat-square) | [📖 README](sports-venue-management-platform/README.md) | [📄 PDF](sports-venue-management-platform/sports_venue_management_platform_case_study.pdf) |
+| 9 | **Enterprise AI Knowledge & Retrieval Platform**<br>_Agentic RAG assistant + board-meeting copilot over an enterprise document corpus — hybrid search, knowledge graph, multi-agent decisioning, grounded & cited_ | ![Generative AI](https://img.shields.io/badge/Generative_AI-6D28D9?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-5B3FA0?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-7C3AED?style=flat-square) ![Knowledge Graph](https://img.shields.io/badge/Knowledge_Graph-0D9488?style=flat-square) ![Cloud / Azure](https://img.shields.io/badge/Cloud_%2F_Azure-0078D4?style=flat-square) | [📖 README](enterprise-rag-knowledge-platform/README.md) | [📄 PDF](enterprise-rag-knowledge-platform/enterprise_rag_knowledge_platform_case_study.pdf) |
 
 ---
 
